@@ -2,6 +2,7 @@
 My leetcode practice
 
 ## Tree
+### Binary Tree Traversal
 | Problem Link  |  Code Link  | 
 | ------------- |:-------------:| 
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Inorder_Traversal.cpp) | 
