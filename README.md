@@ -24,6 +24,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | 
 | ------------- |:-------------:|
 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) | 
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)|
 
 ## Graph
 | Problem Link  |  Code Link  | 
