@@ -8,7 +8,6 @@
  * };
  */
 #include <algorithm>
-
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
@@ -16,7 +15,7 @@ public:
     }
     
     template <typename InputIterator>
-    TreeNode* buildTreeHelper(InputIterator pre_first, InputIterator pre_last,                                     InputIterator in_first, InputIterator in_last){
+    TreeNode* buildTreeHelper(InputIterator pre_first, InputIterator pre_last, InputIterator in_first, InputIterator in_last){
         if(pre_first == pre_last) return nullptr;
         if(in_first == in_last) return nullptr;
         
@@ -27,10 +26,8 @@ public:
         auto inorder_Root = std::find(in_first, in_last, *pre_first);
         int leftSize = std::distance(in_first, inorder_Root);
         
-        root->left = buildTreeHelper(next(pre_first), next(pre_first, leftSize+1),
-                                    in_first, next(in_first, leftSize));
-        root->right = buildTreeHelper(next(pre_first, leftSize+1), pre_last,
-                                     next(inorder_Root), in_last);
+        root->left = buildTreeHelper(next(pre_first), next(pre_first, leftSize+1), in_first, next(in_first, leftSize));
+        root->right = buildTreeHelper(next(pre_first, leftSize+1), pre_last, next(inorder_Root), in_last);
         
         return root;
     }
