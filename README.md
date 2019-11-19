@@ -36,6 +36,7 @@ My leetcode practice
 ### Binary Search
 | Problem Link  |  Code Link  | 
 | ------------- |:-------------:|
+| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)|
 
 ## Graph
 | Problem Link  |  Code Link  | 
