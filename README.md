@@ -33,6 +33,9 @@ My leetcode practice
 | [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Unique_Binary_Search_Trees_II.cpp)|
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Validate_Binary_Search_Tree.cpp)|
 
+### Binary Search
+| Problem Link  |  Code Link  | 
+| ------------- |:-------------:|
 
 ## Graph
 | Problem Link  |  Code Link  | 
