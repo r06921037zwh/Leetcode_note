@@ -42,7 +42,7 @@ My leetcode practice
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Minimum_Depth_of_Binary_Tree.cpp) | ?? |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum.cpp)| ?? |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum_II.cpp)| ?? |
-| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Maximum_Path_Sum.cpp)| ?? |
+| [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Maximum_Path_Sum.cpp)| Hard |
 
 ### Binary Search
 | Problem Link  |  Code Link  | Level |
