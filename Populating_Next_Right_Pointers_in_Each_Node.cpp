@@ -17,6 +17,28 @@ public:
     }
 };
 */
+/*Recursive manner*/
+class Solution {
+public:
+    Node* connect(Node* root) {
+        connect(root, nullptr);
+        return root;
+    }
+    void connect(Node* node, Node* sibling){
+        if(!node) return;
+        
+        node->next = sibling;
+        connect(node->left, node->right);
+        if(sibling){
+            connect(node->right, sibling->left);
+        }else{
+            connect(node->right, nullptr);
+        }
+    }
+};
+
+/*Non recursive manner*/
+
 class Solution {
 public:
     Node* connect(Node* root) {
