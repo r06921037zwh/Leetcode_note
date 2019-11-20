@@ -39,6 +39,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | 
 | ------------- |:-------------:|
 |[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Minimum_Depth_of_Binary_Tree.cpp) |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Depth_of_Binary_Tree.cpp)|
 
 ### Binary Search
 | Problem Link  |  Code Link  | 
