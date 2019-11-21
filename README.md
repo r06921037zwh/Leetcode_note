@@ -45,7 +45,7 @@ My leetcode practice
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Maximum_Path_Sum.cpp)| Hard |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Sum_Root_to_Leaf_Numbers.cpp)| Medium |
 
-### Binary Search
+## S
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
