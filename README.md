@@ -48,6 +48,7 @@ My leetcode practice
 ## Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_Insert_Position.cpp)| Easy |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
 
 ## Graph
@@ -58,8 +59,9 @@ My leetcode practice
 ## Dynamic Programming
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Triangle.cpp)| Medium |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Subarray.cpp) | Easy |
+| [120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Triangle.cpp)| Medium |
+
 
 
 
