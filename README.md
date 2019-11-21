@@ -23,8 +23,8 @@ My leetcode practice
 #### Construction of Binary Tree
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) |  ?? |
-| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)| ?? |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.cpp) |  Medium |
+| [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)| Medium |
 
 #### Binary Search Tree
 | Problem Link  |  Code Link  | Level |
@@ -38,10 +38,10 @@ My leetcode practice
 #### Binary Tree Recursion
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Depth_of_Binary_Tree.cpp)| ?? |
-|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Minimum_Depth_of_Binary_Tree.cpp) | ?? |
-| [112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum.cpp)| ?? |
-| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum_II.cpp)| ?? |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Depth_of_Binary_Tree.cpp)| Easy |
+|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Minimum_Depth_of_Binary_Tree.cpp) | Easy |
+| [112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum.cpp)| Easy |
+| [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Path_Sum_II.cpp)| Medium |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Maximum_Path_Sum.cpp)| Hard |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Sum_Root_to_Leaf_Numbers.cpp)| Medium |
 
@@ -53,7 +53,7 @@ My leetcode practice
 ## Graph
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Course_Schedule.cpp)| ?? |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Course_Schedule.cpp)| Medium |
 
 
 
