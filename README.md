@@ -34,6 +34,7 @@ My leetcode practice
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Validate_Binary_Search_Tree.cpp)| Medium |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Convert_Sorted_Array_to_Binary_Search_Tree.cpp)| Easy |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Convert_Sorted_List_to_Binary_Search_Tree.cpp)| Medium |
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_a_Binary_Search_Tree.cpp)| Easy |
 | [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Insert_into_a_Binary_Search_Tree.cpp) | Medium |
 
 #### Binary Tree Recursion
@@ -52,7 +53,6 @@ My leetcode practice
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_Rotated_Sorted_Array.cpp)| Medium |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium|
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_Insert_Position.cpp)| Easy |
-| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_a_Binary_Search_Tree.cpp)| Easy |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
 
 ## Graph
