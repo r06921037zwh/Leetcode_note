@@ -52,6 +52,7 @@ My leetcode practice
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_Rotated_Sorted_Array.cpp)| Medium |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium|
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_Insert_Position.cpp)| Easy |
+| [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_a_Binary_Search_Tree.cpp)| Easy |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
 
 ## Graph
