@@ -34,6 +34,7 @@ My leetcode practice
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Validate_Binary_Search_Tree.cpp)| Medium |
 | [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Convert_Sorted_Array_to_Binary_Search_Tree.cpp)| Easy |
 | [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Convert_Sorted_List_to_Binary_Search_Tree.cpp)| Medium |
+| [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Insert_into_a_Binary_Search_Tree.cpp) | Medium |
 
 #### Binary Tree Recursion
 | Problem Link  |  Code Link  | Level |
