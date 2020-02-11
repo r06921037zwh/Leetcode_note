@@ -70,7 +70,10 @@ My leetcode practice
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Palindrome_Partitioning_II.cpp) | Hard |
 
 
-
+## Some Classic Programs
+| Problem Link  |  Code Link  |
+| ------------- |:-------------:|
+| [Tower of Hanoi](https://openhome.cc/Gossip/AlgorithmGossip/HanoiTower.htm) |[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Tower_of_Hanoi.cpp)| 
 
 
 
