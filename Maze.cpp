@@ -4,17 +4,13 @@ using namespace std;
 
 //把迷宮表示為n個有路口編號的集合
 //定義路口類別
-class Crossing
-{
+class Crossing{
 public:
 	//0為不通路口的三個方向
 	int turn1;
 	int turn2;
 	int turn3;
-
-public:
-	Crossing(int turn1, int turn2, int turn3)
-	{
+	Crossing(int turn1, int turn2, int turn3){
 		Crossing::turn1 = turn1;
 		Crossing::turn2 = turn2;
 		Crossing::turn3 = turn3;
@@ -22,16 +18,13 @@ public:
 };
 
 //定義迷宮類別
-class Maze
-{
+class Maze{
 private:
 	int exit; //出口編號
 	vector<Crossing> crossings; //路口集合
 	vector<int> result;
-
 public:
-	Maze(int the_exit, vector<Crossing> the_crossings)
-	{
+	Maze(int the_exit, vector<Crossing> the_crossings){
 		exit = the_exit;
 		crossings = the_crossings;
 	}
@@ -40,37 +33,29 @@ public:
 };
 
 //迷宮求解核心演算法
-int Maze::findExit(int entrance)
-{
-	if (entrance > 0)
-	{
-		if (entrance == Maze::exit)
-		{
+int Maze::findExit(int entrance){
+	if (entrance > 0){
+		if (entrance == Maze::exit){
 			result.push_back(entrance);
 			return 1;
 		}
-		if (findExit(crossings[entrance].turn1))
-		{
+		if (findExit(crossings[entrance].turn1)){
 			result.push_back(entrance);
 			return 1;
 		}
-		if (findExit(crossings[entrance].turn2))
-		{
+		if (findExit(crossings[entrance].turn2)){
 			result.push_back(entrance);
 			return 1;
 		}
-		if (findExit(crossings[entrance].turn3))
-		{
+		if (findExit(crossings[entrance].turn3)){
 			result.push_back(entrance);
 			return 1;
 		}
 	}
-
 	return 0;
 }
 
-void Maze::getResult()
-{
+void Maze::getResult(){
 	findExit(1);
 
 	for (int i = result.size(); i>0; i--)
@@ -78,8 +63,7 @@ void Maze::getResult()
 	cout << "Exit" << endl;
 }
 
-int main()
-{
+int main(){
 	//建立迷宮：9個路口，出口為10
 	Crossing c1(2, 0, 0);
 	Crossing c2(4, 0, 0);
@@ -106,5 +90,5 @@ int main()
 
 	Maze newMaze(10, crossings);
 	newMaze.getResult(); // 1->2->4->5->6->7->9->10->Exit
-  return 0;
+  	return 0;
 }
