@@ -44,7 +44,7 @@ void QueenPuzzle::placeQueen(int i){
 		//擺放皇后
 		queens[i] = j;
 
-		//此位置不能擺放皇后，繼續嘗試下一位置
+		//此位置可以擺放皇后，繼續嘗試下一行
 		if (IsValid(i))
 			placeQueen(i + 1);
 	}
