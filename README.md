@@ -57,6 +57,11 @@ My leetcode practice
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_Insert_Position.cpp)| Easy |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
 
+## Chapter 10 Depth First Search
+| Problem Link  |  Code Link  | Level |
+| ------------- |:-------------:| :-------------:| 
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10%20Depth%20First%20Search/Palindrome_Partitioning.cpp)| Medium |
+
 ## Graph
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
