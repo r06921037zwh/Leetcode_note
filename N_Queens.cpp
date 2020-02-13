@@ -8,68 +8,56 @@ using namespace std;
 int sum = 0; //紀錄有幾組解
 
 class QueenPuzzle{
-	int queens[MAX]; //儲存每行皇后的行編號
+    int queens[MAX]; //儲存每行皇后的行編號
 
 public:
-	void printOut(); //印出結果
-	int IsValid(int n); //判斷放上第n個皇后之後是否合法
-	void placeQueen(int i); //遞迴運算，擺放皇后
+    void printOut(); //印出結果
+    int IsValid(int n); //判斷放上第n個皇后之後是否合法
+    void placeQueen(int i); //遞迴運算，擺放皇后
 };
 
 void QueenPuzzle::printOut(){
-	for (int i = 0; i<MAX; i++){
-		for (int j = 0; j<MAX; j++){
-			if (j == queens[i])
-				cout << "Q ";
-			else
-				cout << "0 ";
-		}
-		cout << endl;
+    for (int i = 0; i<MAX; i++){
+        for (int j = 0; j<MAX; j++){
+		if (j == queens[i])
+			cout << "Q ";
+		else
+			cout << "0 ";
 	}
-	cout << endl << "------------------" << endl << endl;
+	cout << endl;
+}
+cout << endl << "------------------" << endl << endl;
 }
 
 //在第i列擺放皇后
 void QueenPuzzle::placeQueen(int i){
-	for (int j = 0; j<MAX; j++){
-		//如果全部放完，則輸出結果
-		if (i == MAX){
-			sum++;
-			cout << "第" << sum << "組解：" << endl;
-			printOut();
-
-			return;
-		}
-
-		//擺放皇后
-		queens[i] = j;
-
-		//此位置可以擺放皇后，繼續嘗試下一行
-		if (IsValid(i))
-			placeQueen(i + 1);
-	}
+    for (int j = 0; j<MAX; j++){
+	//如果全部放完，則輸出結果
+	if (i == MAX){  
+		sum++;
+		cout << "第" << sum << "組解：" << endl;
+		printOut();
+		return;
+    	}	  
+  queens[i] = j; //擺放皇后
+  if (IsValid(i)) placeQueen(i + 1);  //若此位置可以擺放皇后，繼續嘗試下一行		
+  }
 }
 
 //判斷放上第n個皇后之後是否合法，亦即是否無衝突
 int QueenPuzzle::IsValid(int n){
-	//將第n個皇后的位置依序與前面n-1個皇后的位置比較
-	for (int i = 0; i < n; i++){
-		//兩個皇后在同一列，返回0
-		if (queens[i] == queens[n])
-			return 0;
-		//兩個皇后在同一對角線上，返回0
-		if (abs(queens[i] - queens[n]) == (n - i))
-			return 0;
-	}
-
-	//沒有衝突，返回1
-	return 1;
+  //將第n個皇后的位置依序與前面n-1個皇后的位置比較
+  for (int i = 0; i < n; i++){
+	if (queens[i] == queens[n]) return 0; //兩個皇后在同一列，返回0
+	if (abs(queens[i] - queens[n]) == (n - i)) return 0; //兩個皇后在同一對角線上，返回0
+  }
+  //沒有衝突，返回1
+  return 1;
 }
 
 int main(){
-	QueenPuzzle queen;
-	queen.placeQueen(0);
-	cout << "共" << sum << "組解" << endl;
-
+  QueenPuzzle queen;
+  queen.placeQueen(0);
+  cout << "共" << sum << "組解" << endl;
   return 0;
 }
