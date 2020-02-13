@@ -76,6 +76,7 @@ My leetcode practice
 | [Tower of Hanoi](https://openhome.cc/Gossip/AlgorithmGossip/HanoiTower.htm) |[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Tower_of_Hanoi.cpp)| 
 |[Epidemic Problem](https://blog.csdn.net/Veaxen/article/details/71798106)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Epidemic_Problem.cpp)|
 |[Maze](https://openhome.cc/Gossip/AlgorithmGossip/MouseGoMaze.htm#Python)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maze.cpp)|
+|[N Queen](https://www.geeksforgeeks.org/8-queen-problem/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/N_Queens.cpp)|
 
 
 
