@@ -1,7 +1,7 @@
 # Leetcode_note
 My leetcode practice
 
-## Tree
+## Chapter 5 Tree
 #### Binary Tree Traversal
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
@@ -49,7 +49,7 @@ My leetcode practice
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Maximum_Path_Sum.cpp)| Hard |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Sum_Root_to_Leaf_Numbers.cpp)| Medium |
 
-## Search
+## Chapter 7 Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_Rotated_Sorted_Array.cpp)| Medium |
@@ -62,20 +62,19 @@ My leetcode practice
 | ------------- |:-------------:| :-------------:| 
 | [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10%20Depth%20First%20Search/Palindrome_Partitioning.cpp)| Medium |
 
-## Graph
-| Problem Link  |  Code Link  | Level |
-| ------------- |:-------------:| :-------------:| 
-| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Course_Schedule.cpp)| Medium |
-
-## Dynamic Programming
+## Chapter 13 Dynamic Programming
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Subarray.cpp) | Easy |
 | [120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Triangle.cpp)| Medium |
 | [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Palindrome_Partitioning_II.cpp) | Hard |
 
+## Chapter 14 Graph
+| Problem Link  |  Code Link  | Level |
+| ------------- |:-------------:| :-------------:| 
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Course_Schedule.cpp)| Medium |
 
-## Some Classic Programs
+## Chapter 16 Some Classic Programs
 | Problem Link  |  Code Link  |
 | ------------- |:-------------:|
 | [Tower of Hanoi](https://openhome.cc/Gossip/AlgorithmGossip/HanoiTower.htm) |[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Tower_of_Hanoi.cpp)| 
