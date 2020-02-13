@@ -21,6 +21,7 @@ Output: 28
 */
 
 // Method 1: Backtracking (DFS) method
+/*
 class Solution {
 public:
     int uniquePaths(int m, int n) {    
@@ -28,4 +29,27 @@ public:
         if(m == 1 && n == 1) return 1; // Base condition 2: Convergence
         return uniquePaths(m-1, n) + uniquePaths(m, n-1); // Recurrence
     } 
+};
+/*
+
+// Method 2: Dynamic Programming (DP) Top-Down
+#include <vector>
+using namespace std;
+
+class Solution {
+    vector<vector<int>> f;
+public:
+    int uniquePaths(int m, int n) {
+        f = vector<vector<int>> (m, vector<int>(n, 0)); // use a table to record calculated path, f[x][y] means number of paths from (0,0) to (x,y)
+        f[0][0] = 1;
+        return dfs(m-1, n-1);
+    } 
+    
+    int dfs(int i, int j){
+        if(i < 0 || j < 0) return 0; // Base condition: termination 
+        if(f[i][j] != 0)             // if exists, return the calculated value
+            return f[i][j]; 
+        else 
+            return f[i][j] = dfs(i-1, j) + dfs(i, j-1); // Recurrence
+    }
 };
