@@ -2,13 +2,13 @@
 using namespace std;
 //首先要求皇后不衝突，那麼每列只能有一個皇后
 //以queens[]陣列儲存每個皇后的位置
-//例如：queens[m] = n，表示第m列的皇后放在第n行上
+//例如：queens[m] = n，表示第m行的皇后放在第n列上
 
 #define MAX 8
 int sum = 0; //紀錄有幾組解
 
 class QueenPuzzle{
-	int queens[MAX]; //儲存每列皇后的行編號
+	int queens[MAX]; //儲存每行皇后的行編號
 
 public:
 	void printOut(); //印出結果
@@ -54,7 +54,7 @@ void QueenPuzzle::placeQueen(int i){
 int QueenPuzzle::IsValid(int n){
 	//將第n個皇后的位置依序與前面n-1個皇后的位置比較
 	for (int i = 0; i < n; i++){
-		//兩個皇后在同一行，返回0
+		//兩個皇后在同一列，返回0
 		if (queens[i] == queens[n])
 			return 0;
 		//兩個皇后在同一對角線上，返回0
