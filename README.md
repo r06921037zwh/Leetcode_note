@@ -5,8 +5,8 @@ My leetcode practice
 #### Binary Tree Traversal
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Tree_Inorder_Traversal.cpp) | Medium |
-| [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Recover_Binary_Search_Tree.cpp)| Hard |
+| [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p94_Binary_Tree_Inorder_Traversal.cpp) | Medium |
+| [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p99_Recover_Binary_Search_Tree.cpp)| Hard |
 | [100. Same Tree](https://leetcode.com/problems/same-tree/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p100_Same_Tree.cpp)| Easy |
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p101_Symmetric_Tree.cpp)| Easy |
 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p102_Binary_Tree_Level_Order_Traversal.cpp)| Medium |
