@@ -52,35 +52,35 @@ My leetcode practice
 ## Chapter 7. Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_in_Rotated_Sorted_Array.cpp)| Medium |
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium|
-| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Search_Insert_Position.cpp)| Easy |
-| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Binary_Search.cpp)| Easy |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p33_Search_in_Rotated_Sorted_Array.cpp)| Medium |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium|
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p35_Search_Insert_Position.cpp)| Easy |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p704_Binary_Search.cpp)| Easy |
 
 ## Chapter 10. Depth First Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10%20Depth%20First%20Search/Palindrome_Partitioning.cpp)| Medium |
+| [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p131_Palindrome_Partitioning.cpp)| Medium |
 
 ## Chapter 13. Dynamic Programming
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maximum_Subarray.cpp) | Easy |
-| [120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Triangle.cpp)| Medium |
-| [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Palindrome_Partitioning_II.cpp) | Hard |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p53_Maximum_Subarray.cpp) | Easy |
+| [120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p120_Triangle.cpp)| Medium |
+| [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p132_Palindrome_Partitioning_II.cpp) | Hard |
 
 ## Chapter 14. Graph
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Course_Schedule.cpp)| Medium |
+| [207. Course Schedule](https://leetcode.com/problems/course-schedule/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_14_Graph/p207_Course_Schedule.cpp)| Medium |
 
 ## Chapter 16. Some Classic Programs
 | Problem Link  |  Code Link  |
 | ------------- |:-------------:|
-| [Tower of Hanoi](https://openhome.cc/Gossip/AlgorithmGossip/HanoiTower.htm) |[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Tower_of_Hanoi.cpp)| 
-|[Epidemic Problem](https://blog.csdn.net/Veaxen/article/details/71798106)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Epidemic_Problem.cpp)|
-|[Maze](https://openhome.cc/Gossip/AlgorithmGossip/MouseGoMaze.htm#Python)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Maze.cpp)|
-|[N Queen](https://www.geeksforgeeks.org/8-queen-problem/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/N_Queens.cpp)|
+| [Tower of Hanoi](https://openhome.cc/Gossip/AlgorithmGossip/HanoiTower.htm) |[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Classic_Problems/Tower_of_Hanoi.cpp)| 
+|[Epidemic Problem](https://blog.csdn.net/Veaxen/article/details/71798106)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Classic_Problems/Epidemic_Problem.cpp)|
+|[Maze](https://openhome.cc/Gossip/AlgorithmGossip/MouseGoMaze.htm#Python)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Classic_Problems/Maze.cpp)|
+|[N Queen](https://www.geeksforgeeks.org/8-queen-problem/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Classic_Problems/N_Queens.cpp)|
 
 
 
