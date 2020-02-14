@@ -42,8 +42,8 @@ public:
                 f[i][j] = 1 - obstacleGrid[i][j];
             }
         }
-        
-        bool rowFlag=false, colFlag=false; // record whether encounter obstacle in first row or col; if did, the following grid will not be reachable
+        // record whether encounter obstacle in first row or col; if did, the following grid will not be reachable (f[i][j] = 0)
+        bool rowFlag=false, colFlag=false; 
         for(int i=0; i<row; i++){
             rowFlag = (obstacleGrid[i][0] || rowFlag);
             if(rowFlag)
