@@ -61,6 +61,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p51_N-Queens.cpp)| Hard |
+|[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p52_N-Queens_II.cpp)| Hard |
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p62_Unique_Paths.cpp)| Medium |
 |[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p63_Unique_Paths_II.cpp)| Medium |
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p131_Palindrome_Partitioning.cpp)| Medium |
