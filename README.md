@@ -60,14 +60,16 @@ My leetcode practice
 ## Chapter 10. Depth First Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
-|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p62_Unique_Paths.cpp)| Medium | 
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p62_Unique_Paths.cpp)| Medium |
+|[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p63_Unique_Paths_II.cpp)| Medium |
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p131_Palindrome_Partitioning.cpp)| Medium |
 
 ## Chapter 13. Dynamic Programming
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p53_Maximum_Subarray.cpp) | Easy |
-|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p62_Unique_Paths.cpp)| Medium| 
+|[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p62_Unique_Paths.cpp)| Medium |
+|[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p63_Unique_Paths_II.cpp)| Medium |
 |[120. Triangle](https://leetcode.com/problems/triangle/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p120_Triangle.cpp)| Medium |
 |[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_13_Dynamic_Programming/p132_Palindrome_Partitioning_II.cpp) | Hard |
 
