@@ -60,6 +60,7 @@ My leetcode practice
 ## Chapter 10. Depth First Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
+|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p39_Combination_Sum.cpp)| Medium |
 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p51_N-Queens.cpp)| Hard |
 |[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p52_N-Queens_II.cpp)| Hard |
 |[62. Unique Paths](https://leetcode.com/problems/unique-paths/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p62_Unique_Paths.cpp)| Medium |
