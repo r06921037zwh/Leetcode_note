@@ -60,6 +60,7 @@ My leetcode practice
 ## Chapter 10. Depth First Search
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
+|[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p22_Generate_Parentheses.cpp)| Medium |
 |[39. Combination Sum](https://leetcode.com/problems/combination-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p39_Combination_Sum.cpp)| Medium |
 |[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p40_Combination_Sum_II.cpp)| Medium |
 |[51. N-Queens](https://leetcode.com/problems/n-queens/)|[code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_10_Depth_First_Search/p51_N-Queens.cpp)| Hard |
