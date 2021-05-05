@@ -1,6 +1,11 @@
 # Leetcode_note
 My leetcode practice
 
+## Linked List
+| Problem Link  |  Code Link  | Level |
+| ------------- |:-------------:| :-------------:| 
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/Reverse_Linked_List.py) | Easy |               
+
 ## Chapter 5. Tree
 #### Binary Tree Traversal
 | Problem Link  |  Code Link  | Level |
