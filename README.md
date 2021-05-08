@@ -4,8 +4,10 @@ My leetcode practice
 ## Linked List
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/add-two-numbers.py)| Medium |
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-sorted-list-ii.py) | Medium |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-sorted-list.py)  | Easy |
+| [143. Reorder List](https://leetcode.com/problems/reorder-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/reorder-list.py) | Medium |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/Reverse_Linked_List.py) | Easy |   
 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-an-unsorted-linked-list.py) | Medium |
 
