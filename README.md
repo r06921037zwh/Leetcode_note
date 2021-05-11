@@ -6,6 +6,7 @@ My leetcode practice
 | ------------- |:-------------:| :-------------:| 
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/add-two-numbers.py)| Medium |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/swap-nodes-in-pairs.py) | Medium |
+| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/reverse-nodes-in-k-group.py) | Hard |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/tree/master/Linked%20List) | Medium|
 | [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-sorted-list-ii.py) | Medium |
 | [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-sorted-list.py)  | Easy |
