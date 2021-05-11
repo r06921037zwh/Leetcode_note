@@ -5,6 +5,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/add-two-numbers.py)| Medium |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/merge-two-sorted-lists.py)| Easy |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/swap-nodes-in-pairs.py) | Medium |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/reverse-nodes-in-k-group.py) | Hard |
 | [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/tree/master/Linked%20List) | Medium|
