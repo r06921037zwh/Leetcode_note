@@ -43,3 +43,32 @@ class Solution:
                 
  
 # Recursive Method
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseKGroup(self, head: ListNode, k: int) -> ListNode:
+        if not head or not head.next:
+            return head
+        
+        end = head
+        for _ in range(k-1):
+            if end and end.next:
+                end = end.next
+            else:
+                return head
+        
+        # end is the new K Group head
+        end = self.reverseKGroup(end.next, k)
+        
+        # treat end as the last node and proceed reverse
+        tmp = None
+        for _ in range(k):
+            tmp = head.next
+            head.next = end
+            end = head
+            head = tmp
+        
+        return end
