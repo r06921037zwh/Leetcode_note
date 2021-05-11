@@ -15,6 +15,7 @@ My leetcode practice
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/linked-list-cycle.py) | Easy |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/linked-list-cycle-ii.py)| Medium |
 | [143. Reorder List](https://leetcode.com/problems/reorder-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/reorder-list.py) | Medium |
+| [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-linked-list-elements.py)| Easy |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/Reverse_Linked_List.py) | Easy |   
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/delete-node-in-a-linked-list.py) | Easy |
 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-an-unsorted-linked-list.py) | Medium |
