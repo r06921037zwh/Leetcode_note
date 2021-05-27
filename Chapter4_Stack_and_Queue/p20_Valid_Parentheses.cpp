@@ -50,3 +50,27 @@ public:
         return stk.empty();
     }
 };
+
+
+
+/*Python Version*/
+class Solution:
+    def isValid(self, s: str) -> bool:
+        left = ['(', '{', '[']
+        right = [')', '}', ']']
+        
+        stack = []
+        for c in s:
+            if c in left:
+                stack.append(c)
+            elif c in right:
+                if len(stack) == 0 or stack[-1] != left[right.index(c)]:
+                    return False
+                else:
+                    stack.pop()
+            else:
+                return False
+                 
+        if len(stack) == 0:
+            return True
+        return False
