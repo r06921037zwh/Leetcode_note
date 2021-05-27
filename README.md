@@ -21,6 +21,11 @@ My leetcode practice
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/delete-node-in-a-linked-list.py) | Easy |
 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-an-unsorted-linked-list.py) | Medium |
 
+## Stack
+| Problem Link  |  Code Link  | Level |
+| ------------- |:-------------:| :-------------:| 
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/p20_Valid_Parentheses.cpp) | Easy|
+
 ## Chapter 5. Tree
 #### Binary Tree Traversal
 | Problem Link  |  Code Link  | Level |
