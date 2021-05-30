@@ -26,7 +26,7 @@ My leetcode practice
 | ------------- |:-------------:| :-------------:| 
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/p20_Valid_Parentheses.cpp) | Easy|
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/largest-rectangle-in-histogram.py)| Hard |
-
+| [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/remove-all-adjacent-duplicates-in-string.py) | Easy |
 ## Chapter 5. Tree
 #### Binary Tree Traversal
 | Problem Link  |  Code Link  | Level |
