@@ -19,6 +19,7 @@ My leetcode practice
 | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-linked-list-elements.py)| Easy |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/Reverse_Linked_List.py) | Easy |   
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/delete-node-in-a-linked-list.py) | Easy |
+| [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/next-greater-node-in-linked-list.py) | Medium |
 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-an-unsorted-linked-list.py) | Medium |
 
 ## Stack
