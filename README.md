@@ -25,6 +25,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/p20_Valid_Parentheses.cpp) | Easy|
+| [84. Largest Rectangle in Histogram]|(https://leetcode.com/problems/largest-rectangle-in-histogram/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/largest-rectangle-in-histogram.py)| Hard |
 
 ## Chapter 5. Tree
 #### Binary Tree Traversal
