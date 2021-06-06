@@ -72,7 +72,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p104_Maximum_Depth_of_Binary_Tree.cpp)| Easy |
-| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p111_Minimum_Depth_of_Binary_Tree.cpp) | Easy |
+| [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p111_Minimum_Depth_of_Binary_Tree.cpp)  [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/minimum-depth-of-binary-tree.py)| Easy |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p112_Path_Sum.cpp)| Easy |
 | [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p113_Path_Sum_II.cpp)| Medium |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_5_Tree/p124_Binary_Tree_Maximum_Path_Sum.cpp)| Hard |
