@@ -8,9 +8,9 @@ class Solution:
     def minDepth(self, root: TreeNode) -> int: 
         if not root:
             return 0
-        return self.bfs(root)
+        return self.dfs(root)
         
-    def bfs(self, node):
+    def dfs(self, node):
         if not node.left and not node.right:
             return 1
         left_min = right_min = float('inf')
