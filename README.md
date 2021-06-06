@@ -87,7 +87,7 @@ My leetcode practice
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p33_Search_in_Rotated_Sorted_Array.cpp)| Medium |
-| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) | Medium|
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [code1](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) [code2](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/find-first-and-last-position-of-element-in-sorted-array.py)| Medium|
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p35_Search_Insert_Position.cpp)| Easy |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/)| [code1](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/p704_Binary_Search.cpp)  [code2](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter_7_Search/binary-search.py)| Easy |
 
