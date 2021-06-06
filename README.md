@@ -22,13 +22,18 @@ My leetcode practice
 | [1019. Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/next-greater-node-in-linked-list.py) | Medium |
 | [1836. Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Linked%20List/remove-duplicates-from-an-unsorted-linked-list.py) | Medium |
 
-## Stack
+## Stack (DFS)
 | Problem Link  |  Code Link  | Level |
 | ------------- |:-------------:| :-------------:| 
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/p20_Valid_Parentheses.cpp) | Easy|
 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/largest-rectangle-in-histogram.py)| Hard |
 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/remove-all-adjacent-duplicates-in-string.py) | Easy |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/remove-all-adjacent-duplicates-in-string-ii.py) | Medium |
+
+## Queue (BFS)
+| Problem Link  |  Code Link  | Level |
+| ------------- |:-------------:| :-------------:| 
+| [752. Open the Lock](https://leetcode.com/problems/open-the-lock/)| [code](https://github.com/r06921037zwh/Leetcode_note/blob/master/Chapter4_Stack_and_Queue/open-the-lock.py) | Medium |
 
 ## Chapter 5. Tree
 #### Binary Tree Traversal
